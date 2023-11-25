@@ -1,3 +1,5 @@
+#This day's project is supposed to be creating a calculator app.
+
 def format_name(f_name, l_name):
     if f_name == "" or l_name == "":
         return
