@@ -316,7 +316,7 @@ data = [
     {
         'name': 'NBA',
         'follower_count': 47,
-        'description': 'Club Basketball Competition',
+        'description': 'Professional sports league',
         'country': 'United States'
     }
 ]
